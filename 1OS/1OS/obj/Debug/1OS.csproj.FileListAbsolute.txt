@@ -1,0 +1,10 @@
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\bin\Debug\1OS.exe.config
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\bin\Debug\1OS.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\bin\Debug\1OS.pdb
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\_1OS.Form1.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\_1OS.Properties.Resources.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\1OS.csproj.GenerateResource.Cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\1OS.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\1OS.pdb
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\_1OS.Desk.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\1OS\1OS\obj\Debug\_1OS.SignIn.resources
